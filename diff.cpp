@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a=50,b=40;
+    int a=60,b=40;
     cout<<"The difference is "<<a-b;
     return 0;
 }
